@@ -8,7 +8,7 @@
 
 ## What it did
 
-Before we had our own CRM, the business ran on several systems that didn't talk to each other. The master dashboard joined them:
+The business ran on several systems that didn't talk to each other. The master dashboard joined them:
 
 - **Workiz** (our field-service platform at the time), through its API: jobs, technicians, statuses and money.
 - **Google Ads:** spend, clicks and conversions by campaign and area.
