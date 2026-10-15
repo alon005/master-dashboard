@@ -16,11 +16,6 @@ Before we had our own CRM, the business ran on several systems that didn't talk 
 
 Combined in one place, it let us manage and analyse the call center and the leads together: which ads brought calls, which calls became jobs, and which jobs made money.
 
-## Where it led
-
-- The voice agent, Ava, was first built on top of it (see [ava-voice-agent](https://github.com/alon005/ava-voice-agent)).
-- When Workiz's API couldn't give us transparent enough data, it led to building our own CRM (see [ava-connects](https://github.com/alon005/ava-connects)).
-
 **Stack:** Google Apps Script · Workiz API · Google Ads · RingCentral API · Google Sheets
 
 — Alon Schneidman · [GitHub](https://github.com/alon005) · [LinkedIn](https://www.linkedin.com/in/alonschneidman)
